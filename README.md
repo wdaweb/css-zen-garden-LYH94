@@ -18,6 +18,12 @@ https://lyh94.github.io/css_zen-garden/
 
 ### ID 樹狀圖
 
+![image](./images/layout-tree.jpg)
+
+---
+
+### 版型草圖
+
 ![image](./images/layout_sketch.jpg)
 
 ---
